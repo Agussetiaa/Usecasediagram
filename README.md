@@ -1,4 +1,4 @@
-![usecase-sistem-pemesanan-makanan](https://github.com/Agussetiaa/Usecasediagram/assets/115542822/7358b700-826a-4dd4-b408-a30865f14caf)# Buatlah Use Case Diagram, Activity Diagram, Sequence Diagram Payment of Sale Syatem!
+# Buatlah Use Case Diagram, Activity Diagram, Sequence Diagram Payment of Sale Syatem!
 
 ## 1. Usecase Sistem Pemesanan Makanan
 
